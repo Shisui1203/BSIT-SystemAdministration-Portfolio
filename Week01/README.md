@@ -1,9 +1,9 @@
 # Week 1 –Building My Professional Environment
-# Student Information
-# Name: Chauncey Luis R. Galero 
-# Course BSIT
-# Section 4-A
-# Date 8/6/2026
+#Student Information
+#Name: Chauncey Luis R. Galero 
+#Course BSIT
+#Section 4-A
+#Date 8/6/2026
 
 # Objectives
 - To configure professional online profiles on GitHub and LinkedIn for collaboration, portfolio building, and digital professionalism.
