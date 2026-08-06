@@ -1,4 +1,4 @@
-Week 1 – 
+Week 1 –Building My Professional Environment
 Student Information
 Name: Chauncey Luis R. Galero 
 Course BSIT
@@ -29,7 +29,6 @@ and explain how you solved them.
 
 # Reflection
 I developed a thorough understanding of the fundamental setup needed to create a dependable and expert system administration workspace during this lab exercise. I gained useful knowledge about how contemporary IT environments are set up and maintained by installing necessary tools like Git, GitHub Desktop, Visual Studio Code, and virtualization platforms like VirtualBox. Additionally, establishing and refining my professional LinkedIn and GitHub accounts highlighted the significance of "learning in public" and digital professionalism.
-
 These tools are vital for my development as a future System Administrator. For tracking configuration changes, recording infrastructure projects, and working together on challenging deployments, version control systems like Git and GitHub are essential. Meanwhile, virtualization software such as VirtualBox and operating system ISOs provide a safe sandbox to simulate server setups, test network configurations, and troubleshoot enterprise systems without risking production hardware. Maintaining an organized portfolio ensures every script and project completed this semester is systematically stored and easily showcaseable to future employers. Ultimately, this activity bridges theory and hands-on practice, instilling the discipline, organization, and technical documentation skills required to thrive in the professional IT industry.
 ---
 # References
