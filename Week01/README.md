@@ -23,7 +23,8 @@ GitHub:https://github.com/Shisui1203
 LinkedIn:https://www.linkedin.com/in/chauncey-luis-galero-b27779427/
 ---
 # Installation Screenshots
-Insert screenshots.
+verifications of accounts Week01/accounts
+Screenshots in Week01/screenshots
 ---
 # Challenges Encountered
 Slow Loading and Lag During ISO Installations
